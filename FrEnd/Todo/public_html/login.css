@@ -1,0 +1,67 @@
+.img-responsive {
+    width: 40px;
+    height: 40px;
+    border-radius: 40%;
+
+    bottom: 8px;
+    position: absolute;
+    }
+    body{
+    background: url(8691-black-white-background_20819.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+    }
+    .text-center h3 {
+        display:inline-block;
+        color: beige;
+    }
+    .con {
+         width: 400px;
+    height: 150px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+    }
+    .f{
+        width: 250px;
+        height: 150px;
+  //      background-color: rgb(240,240,240,0.5);
+        margin-left: 50px;
+    }
+    .f label {
+        display: block;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 15px;
+    }
+    .f input {
+        outline: none;
+        border-radius: 8px;
+        background-color: none;
+        margin-left: 35px;
+        border: none;
+        text-align: center;
+        height: 25px;
+        
+    }
+    .f button {
+        margin-left: 90px;
+    margin-top: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #5f5656;
+    outline: none;
+    border: none;
+    }
+    .f button:hover{
+        background: #948787;
+    }
